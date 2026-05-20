@@ -28,10 +28,10 @@ def calcular_y_clasificar_jornada(matriz_recursos):
 
 
 matriz_horas = [
-    ["Ana Gómez", 8, 8, 9, 8, 8],       # Total: 41 -> Sobretiempo
-    ["Carlos Pérez", 8, 7, 8, 8, 6],    # Total: 37 -> Horario Estándar
-    ["María López", 9, 9, 9, 9, 8],     # Total: 44 -> Sobretiempo
-    ["Juan Torres", 8, 8, 8, 8, 8]      # Total: 40 -> Horario Estándar
+    ["Ana Gómez", 8, 8, 9, 8, 8],      
+    ["Carlos Pérez", 8, 7, 8, 8, 6],    
+    ["María López", 9, 9, 9, 9, 8],    
+    ["Juan Torres", 8, 8, 8, 8, 8]     
 ]
 
 # Ejecución del módulo
